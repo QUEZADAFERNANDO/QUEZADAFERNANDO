@@ -1,0 +1,166 @@
+*{
+	border:0;
+	margin:0;
+	padding:0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body{
+	background: #ccc;
+}
+
+header, #banner, #noticias, #tiendas, #marcas{
+	background: #777;
+	height: 150px;
+	width: 780px;
+	border: 1px solid black;
+}
+
+header p{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+
+}
+
+section#contenedor{
+    background: #fff;
+    height: 915px;
+    width: 780px;
+   
+}
+
+section p{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+}
+
+#banner{
+	background: #0639A8;
+	height: 350px;
+	width: 760px;
+	padding-left: 10px;	
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border: 1px solid black;
+
+}
+
+.espacio{
+	width: 100%;
+	height: 10px;
+}
+
+#banner #banner1,#banner2{
+	background: #888;
+	width: 740px;
+	height: 155px;	
+	display: inline-block;
+	vertical-align: top;
+    border: 1px solid black;
+}
+
+#noticias{
+	background: #e98;
+	height: 175px;
+	width: 760px;
+    padding-left: 10px;	
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#noticias #noticia1,#noticia2,#noticia3{
+	background: #888;
+	width: 246px;
+	height: 155px;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid black;
+}
+
+#noticias #noticia2{
+    background: #666;
+}
+
+#noticias #noticia3{
+    background: #888;
+}
+
+
+#tiendas{
+	background: #1AC11A;
+	height: 200px;
+	width: 760px;
+	padding-left: 10px;	
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#tiendas #tienda1,#tienda2,#tienda3,#tienda4,#tienda5{
+	background: #888;
+	width: 146px;
+	height: 200px;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid black;
+}
+
+#tiendas #tienda2{
+    background: #666;
+}
+
+#tiendas #tienda3{
+    background: #888;
+}
+
+#tiendas #tienda4{
+    background: #666;
+}
+
+#tiendas #tienda5{
+    background: #888;
+}
+
+#marcas{
+	background: #444;
+	height: 100px;
+	border: 1px solid black;
+}
+footer{
+    background: #f21;
+    height: 50px;
+    width: 780px;
+    border: 1px solid black;
+}
+
+footer p{
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+}
+
+section#contenedor1{
+    background: #fff;
+    height: 620px;
+    width: 780px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+
